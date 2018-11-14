@@ -1,5 +1,6 @@
 def my_hash
   my_hash["Latrice Royale"]= "Good God Get a Grip Girl"
+  return my_hash
 end
 
 
